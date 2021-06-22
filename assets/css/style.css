@@ -1,0 +1,48 @@
+
+@media (max-width:560px) {
+    #Quienes{
+        display: none;
+    }
+    .cards{
+        padding-bottom: 3em;
+    }
+    /* .footer div div span{
+        
+        font-size:1rem !important;
+        padding:0 !important;
+        margin: auto !important;
+    } */
+    footer div div div .col-1{
+        padding: 12.5px;
+    }
+
+    #footertext{
+        text-align: center;
+    }
+    #iconfooter{
+        font-size:xx-small;
+        padding: 0;
+        margin:  0;
+        text-align:center;
+        
+       
+    }
+    #logo {
+        width: 35px;
+        height: 35px;
+    }
+    #textologo{
+        font-size: 0.65em;
+    }
+}
+.cards {
+        float: left;
+        margin:auto !important;        
+    }
+
+body{
+    font-family:'Raleway', sans-serif;
+    background-color:black !important;
+    margin: 0%;
+    padding: 0%;
+}
